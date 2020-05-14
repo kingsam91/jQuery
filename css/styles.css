@@ -1,7 +1,19 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
+@import url('animate.css');
+@import url('font-awesome.css');
+@import url('poppins.css');
 
 .display-none {
 	display: none;
+}
+
+.intro p {
+  font-family: 'poppinslight_italic',serif;
+}
+
+
+h1.heading {
+  font-family: 'poppinsblack',serif;
 }
 
 .small-img {
